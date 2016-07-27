@@ -28,8 +28,7 @@ public class StudentReportCard {
             studentName = name;
             return this;
         }
-
-
+        
         public Builder mathGrade(int value) {
             mathGrade = value;
             return this;
