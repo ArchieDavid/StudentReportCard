@@ -3,9 +3,10 @@ Report card class created using BuilderPattern.
 This is one of the ABND project.
 
 # StudentReportCard
-Use Eclipse to test the class. Example 
+Use Eclipse to test the class. Example:
 
-```public class TestStudentReportCard {
+```java
+public class TestStudentReportCard {
 
 	public static void main(String[] args) {
 
@@ -21,6 +22,7 @@ Use Eclipse to test the class. Example
 }```
 
 Example output:
-```StudentReportCard{studentId='120', mathGrade='99', scienceGrade= '100', englishGrade= '90', studentName= 'Mike'}```
+```java
+StudentReportCard{studentId='120', mathGrade='99', scienceGrade= '100', englishGrade= '90', studentName= 'Mike'}```
 
 
