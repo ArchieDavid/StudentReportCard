@@ -19,10 +19,10 @@ public class TestStudentReportCard {
 		System.out.println(reportCard);
 	}
 
-}```
+}
 
 Example output:
 ```java
-StudentReportCard{studentId='120', mathGrade='99', scienceGrade= '100', englishGrade= '90', studentName= 'Mike'}```
+StudentReportCard{studentId='120', mathGrade='99', scienceGrade= '100', englishGrade= '90', studentName= 'Mike'}
 
 
