@@ -22,7 +22,7 @@ public class TestStudentReportCard {
 }
 
 Example output:
-```java
+
 StudentReportCard{studentId='120', mathGrade='99', scienceGrade= '100', englishGrade= '90', studentName= 'Mike'}
 
 
